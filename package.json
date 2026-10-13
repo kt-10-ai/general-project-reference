@@ -1,0 +1,23 @@
+{
+  "name": "general-project-reference",
+  "version": "1.0.0",
+  "description": "Minimal starter pattern and reference for Node.js + Express + MongoDB projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "starter",
+    "reference"
+  ],
+  "author": "Kathan Talati",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.0"
+  }
+}
